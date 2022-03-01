@@ -20,7 +20,7 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
 
  
 <p align="center">
-  <img align="center" alt="GIF" src="https://telegra.ph/file/53edaffaee5755e83f5b0.gif" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 </p>
 
 
@@ -33,11 +33,8 @@ A <b>WEB & BOT TELEGRAM DEVELOPMENT</b> <i>Enthusiast</i> 🚀.
     <tr valign="top">
       <td align="center">
         👨🏽‍💻 I’m learning PHP Framework and Python Programming Language.<br>
-        🌱 I’m a lazy people :smile:.<br>
-        🤔 My interest lies in back end web development.<br>
-        💬 Ask me about anything, I love to answer!<br>
-        My Telegram ID @LEGEND_MUKUND
-        
+        🌱 I’m a lazy people xD.<br>
+        🤔 My interest lies in back end Web development App development.<br>
       </td>
     </tr>
   </tbody>
