@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./mukund/jennie.jpg" alt="Jennie Logo">
-</p>
 
 
 
