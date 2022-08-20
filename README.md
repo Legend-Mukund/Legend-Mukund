@@ -1,5 +1,1 @@
-
-
-
-
-<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
+<a href="https://t.me/LEGEND_MUKUND"><img alt="Cute Count" src="https://count.getloli.com/get/@LEGEND_MUKUND?theme=rule34"/></a>
